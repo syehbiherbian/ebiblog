@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "Stablo Template"
+    "name": "Ebi Blog"
   },
   "api": {
-    "projectId": "cijrdavx",
+    "projectId": "7vclxey7",
     "dataset": "production"
   },
   "plugins": [

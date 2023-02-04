@@ -10,6 +10,7 @@ import defaultOG from "../public/img/opengraph.jpg";
 import { postquery, configQuery } from "@lib/groq";
 import GetImage from "@utils/getImage";
 import PostList from "@components/postlist";
+import pkg from '@portabletext/toolkit';
 
 export default function Post(props) {
   const { postdata, siteconfig, preview } = props;
